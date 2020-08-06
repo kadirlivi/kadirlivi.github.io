@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kadir LİVİ"
+title                    : "Gemonstai Twitch"
 title_separator          : "-"
-name                     : &name "Kadir Livi"
-description              : &description "Yazılım Yolunda Bir Genç"
-url                      : https://kadirlivi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Gemonstai Twitch"
+description              : &description "Ünlü Twitch yayıncılarının anlarını paylaşan nacizane kanal"
+url                      : https://gemonstai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kadirlivi/kadirlivi.github.io"
+repository               : "gemonstai/gemonstai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kadir Livi"
+  name             : "Gemonstai"
   avatar           : "profile.png"
-  bio              : "Yazılım yolunda istekli ve hevesli bir genç"
+  bio              : "Ünlü Twitch yayıncılarının anlarını paylaşan nacizane kanal"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kadirlivi"
+  github           : "gemonstaitwitch"
   google_plus      :
   keybase          :
   instagram        : "livikadir"
